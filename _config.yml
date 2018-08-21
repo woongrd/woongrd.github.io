@@ -1,8 +1,8 @@
 # Site
-remote_theme : mmistakes/minimal-mistakes
+#remote_theme : mmistakes/minimal-mistakes
 title:              Woong's
 bio:                'White Hacker woong__rd's blog'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "White Hacker woong__rd's blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
