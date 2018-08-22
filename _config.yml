@@ -1,8 +1,8 @@
 # Site
 #remote_theme : mmistakes/minimal-mistakes
 title:              Woong's
-bio:                'White Hacker woong__rd's blog'
-description:        "Woong"
+bio:                White Hacker woong__rd's blog
+description:        White Hacker Woong__rd blog
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
